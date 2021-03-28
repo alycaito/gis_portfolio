@@ -5,4 +5,4 @@ My name is Aly Caito and I am finishing my final semester of my Master of Public
 I'm looking forward to improving my spatial data analysis skills and 
 
 # Portfolio
-
+[Click to view Assignment 1](https://alycaito.github.io/gis_portfolio/Assignment1)
