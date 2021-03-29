@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Locations</name>
+    <Style id="icon-1526-424242-nodesc-normal">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1526-424242-nodesc-highlight">
+      <IconStyle>
+        <color>ff424242</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1526-424242-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1526-424242-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1526-424242-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>411 Seventh Ave</name>
+      <styleUrl>#icon-1526-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.996412,40.4428627,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Third Presbyterian Church</name>
+      <styleUrl>#icon-1526-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.929467,40.4501997,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>336 College Ave</name>
+      <styleUrl>#icon-1526-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.304292,40.696214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>41 Macek Dr</name>
+      <styleUrl>#icon-1526-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9642999,40.3567637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glenshaw Presbyterian Church</name>
+      <styleUrl>#icon-1526-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9566914,40.5221267,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mt Lebanon Christian Church</name>
+      <styleUrl>#icon-1526-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -80.0548443,40.3779094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2005 Sarah St</name>
+      <styleUrl>#icon-1526-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.977499,40.4279027,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>249 N Craig St</name>
+      <styleUrl>#icon-1526-424242-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -79.9519272,40.4512729,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
