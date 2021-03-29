@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Literacy PGH Map</title>
+    <title>Give me a name!</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
@@ -26,8 +26,8 @@
         var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 40.4583498, lng: -80.079528},  // Setting the center to Pittsburgh, change as you like
           zoom: 15,  // Setting a zoom scale for Pittsburgh
-          styles:    
-          [
+          styles:    // Add JSON from Map Style Wizard below this line... 
+[
   {
     "elementType": "geometry",
     "stylers": [
@@ -190,6 +190,7 @@
     ]
   }
 ]
+// ..and here's the end of JSON from Style Wizard          
         });
       }
 // Don't forget your API Key below vv
