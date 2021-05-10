@@ -4,5 +4,8 @@ My name is Aly Caito and I am finishing my final semester of my Master of Public
 ## What I hope to learn
 I'm looking forward to improving my spatial data analysis skills and understanding of what can be done in GIS. I hope that it will help me in identifying real-world opportunities for geospatial analysis. I really like GIS as a visualization tool as well, and therefore hope that I'll learn more ways to create powerful visualizations. I also hope that I will gain more confidence in scoping and managing GIS projects, as this is what I would likely be doing in the workplace.
 
+## Reflections
+
 ## Portfolio
 [Click to view Assignment 1](https://alycaito.github.io/gis_portfolio/Assignment1)
+[Click to view Final Project](https://alycaito.github.io/gis_portfolio/Final Project)
