@@ -8,4 +8,5 @@ I'm looking forward to improving my spatial data analysis skills and understandi
 
 ## Portfolio
 [Click to view Assignment 1](https://alycaito.github.io/gis_portfolio/Assignment1)
-[Click to view Final Project](https://alycaito.github.io/gis_portfolio/Final_Project)
+
+[Click to view Final Project](https://alycaito.github.io/gis_portfolio/Final_project)
