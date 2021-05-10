@@ -31,5 +31,7 @@ Note: Dashboard is not embedded since it is not publically accessible
 <i> The final screen shows two points flagged as duplicates in the bottom pane. If you select one of these points, it will zoom to the point on the map and flash it green. </i>
 ![](https://alycaito.github.io/gis_portfolio/dashboard6.JPG)
 
-### Zip file of tutorial videos
+### Drive folder of video tutorials
+[Drive folder](https://drive.google.com/drive/folders/1BVFXEkibpx__itUMdSmtEqCUGrKvn3Yb?usp=sharing)
+
 
