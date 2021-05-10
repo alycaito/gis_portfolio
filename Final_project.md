@@ -34,6 +34,6 @@ Note: Dashboard is not embedded since it is not publically accessible
 ### Drive folder of video tutorials
 [Drive folder](https://drive.google.com/drive/folders/1BVFXEkibpx__itUMdSmtEqCUGrKvn3Yb?usp=sharing)
 
-<img src="https://alycaito.github.io/gis_portfolio/video_summary.JPG" width="500">
+<img src="https://alycaito.github.io/gis_portfolio/video_summary.JPG" width="520">
 
 
