@@ -12,8 +12,10 @@ Thus, a monitoring dashboard that is easily updatable could help streamline the 
 
 ### Finished Dashboard Screenshots
 Note: Dashboard is not embedded since it is not publically accessible
+
 <i> This image below is the main landing page. It includes a map, a chart of how many surveys are completed each day, a counter of how many surveys have been completed, an overall progress gauge and progress gauge by district, and a list of outliers or unusual data. </i>
-![](https://alycaito.github.io/gis_portfolio/dashboard1.JPG "This is title")
+![](https://alycaito.github.io/gis_portfolio/dashboard1.JPG)
+<i> This screenshot demonstrate how if you select a day on the surveys completed chart, it filters the map to only include those points </i>
 ![](https://alycaito.github.io/gis_portfolio/dashboard2.JPG)
 ![](https://alycaito.github.io/gis_portfolio/dashboard3.JPG)
 ![](https://alycaito.github.io/gis_portfolio/dashboard4.JPG)
