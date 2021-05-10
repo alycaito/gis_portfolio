@@ -7,8 +7,8 @@ Thus, a monitoring dashboard that is easily updatable could help streamline the 
 
 ### Deliverables
 1) <b>Demo monitoring dashboard:</b> A demo dashboard using ArcGIS dashboards to showcase how data collection progress and survey quality monitoring can be enhanced with maps and other visualizations. The demo dashboard will serve as a template that staff can use to create new, project-specific dashboards. The demo uses survey data from a completed project in Rwanda.
-2) Instructions for set-up and modification: Comprehensive video instructions for setting-up the dashboard for a data collection project (connecting to data) or modifying the template to fit project needs intended for a project associate that is data-savvy but unfamiliar with Esri and/or geospatial data.
-3) Instructions for use: A brief video guide on how to navigate the platform as a user; intended for project associates and for non-technical users such as field supervisors.
+2) <b>Instructions for set-up and modification:</b> Comprehensive video instructions for setting-up the dashboard for a data collection project (connecting to data) or modifying the template to fit project needs intended for a project associate that is data-savvy but unfamiliar with Esri and/or geospatial data.
+3) <b>Instructions for use:</b> A brief video guide on how to navigate the platform as a user; intended for project associates and for non-technical users such as field supervisors.
 
 ### Finished Dashboard Screenshots
 Note: Dashboard is not embedded since it is not publically accessible
